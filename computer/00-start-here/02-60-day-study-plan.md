@@ -3,7 +3,9 @@
 **Time:** 20 minutes  
 **Goal:** Know exactly what to open each day. No confusion.
 
-This plan follows the 60-day timetable you already have. Each day points to **real files** in this folder.
+This plan follows the 60-day timetable you already have. Each day points to **real files** in this pack.
+
+**Do this first (2–3 extra days, or Week 1 mornings):** the official Paper-I 10-mark syllabus in [`../paper-1-computer-literacy/`](../paper-1-computer-literacy/). It includes **Windows screen parts, MS Paint, and email**, which the deep CS folders do not treat as a separate exam paper.
 
 **Daily target:** 2 to 2.5 hours on weekdays, 4 hours on Sundays.
 

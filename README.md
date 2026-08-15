@@ -15,9 +15,10 @@ Open the Computer Science classroom:
 Then follow this order:
 
 1. [Exam pattern and eligibility](computer/00-start-here/01-exam-pattern-and-eligibility.md)
-2. [60-day study plan](computer/00-start-here/02-60-day-study-plan.md)
-3. [How to study each chapter](computer/00-start-here/03-how-to-study-each-chapter.md)
-4. **Chapter 1:** [What is a computer?](computer/01-computer-fundamentals/01-what-is-a-computer.md)
+2. **Official Paper-I Computer Literacy** (start here for the 10-mark paper): [Syllabus map](computer/paper-1-computer-literacy/00-official-syllabus.md)
+3. [Literacy 1 — What is a computer?](computer/paper-1-computer-literacy/01-what-is-a-computer.md)
+4. Later: deep Paper-II CS in `computer/01-computer-fundamentals/`
+5. **General English (official 6–8 syllabus):** [english/00-official-syllabus.md](english/00-official-syllabus.md)
 
 ---
 
@@ -25,7 +26,9 @@ Then follow this order:
 
 | Folder | Content |
 |--------|---------|
-| [`computer/`](computer/) | Full CS classroom: fundamentals, OS, programming, DBMS, networks, Office, pedagogy, Paper-I, mocks |
+| [`computer/`](computer/) | Full CS classroom |
+| [`computer/paper-1-computer-literacy/`](computer/paper-1-computer-literacy/) | Official Paper-I Computer Literacy syllabus |
+| [`english/`](english/) | Official General English syllabus (Classes 6–8) |
 
 After you finish a chapter, come back to chat and type:
 

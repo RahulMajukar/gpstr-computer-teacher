@@ -59,14 +59,19 @@ Many recent GPSTR cycles use **three papers, 400 marks**:
 
 ### A. Paper-I Computer Literacy (about 10 marks — easy scoring)
 
-- What is a computer, types, hardware vs software
-- Memory and devices
-- OS: Windows concepts, Linux names (Ubuntu, Mint, Red Hat), Mac
+Official topic list and full notes:
+
+**[../paper-1-computer-literacy/00-official-syllabus.md](../paper-1-computer-literacy/00-official-syllabus.md)**
+
+- What is a computer, types, language of computers, applications
+- Memory and memory devices
+- Hardware, software types, brands
+- OS: Windows concepts, Linux (Ubuntu, Mint, Red Hat), Mac OS
 - MS Office: Word, Excel, PowerPoint + shortcuts
-- Internet, email, URL, ISP
-- **Nudi** (Kannada typing)
-- Cyber safety basics
-- Sometimes: DIKSHA, ICT in Karnataka schools (Mahiti Sindhu, etc.)
+- **MS Paint** tools
+- Internet: history, URL, ISP, webpage, LAN, WAN, WWW, search engines
+- Email: create ID, compose, attach, send, download, folders
+- **Nudi:** options, Unicode, Scroll Lock, single language, TTF; other software **Baraha**
 
 ### B. Paper-II / CST core Computer Science (your main scoring area)
 

@@ -74,4 +74,7 @@ Define Nudi. Why Karnataka schools need it. Three uses (notice, question paper, 
 
 ---
 
-**Next:** [05 — HTML and CSS](05-html-css.md)
+**Full official Unit 5 notes (Scroll Lock, Unicode, TTF, Baraha):**  
+[../paper-1-computer-literacy/15-nudi-and-baraha.md](../paper-1-computer-literacy/15-nudi-and-baraha.md)
+
+**Next in this Office folder:** [05 — HTML and CSS](05-html-css.md)

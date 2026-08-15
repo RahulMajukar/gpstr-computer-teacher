@@ -1,4 +1,7 @@
-# Chapter P1-4 — General English
+# Chapter P1-4 — General English (short pointer)
+
+**Full official syllabus notes are here:**  
+[../../english/00-official-syllabus.md](../../english/00-official-syllabus.md)
 
 **Paper:** Paper-I English (about **25 marks**) + helps Paper-III if medium is English  
 **Time:** Day 55 + 20 minutes daily in Weeks 7–8  

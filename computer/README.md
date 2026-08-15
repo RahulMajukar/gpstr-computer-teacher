@@ -8,11 +8,24 @@ Back to the main project home: [../README.md](../README.md)
 
 ---
 
+## Two tracks (do not mix them up)
+
+| Track | Folder | Use this for |
+|-------|--------|----------------|
+| **Paper-I Computer Literacy (~10 marks)** | [`paper-1-computer-literacy/`](paper-1-computer-literacy/) | Official 6–8 list: intro, OS, Windows, Office, Paint, Internet, email, **Nudi + Baraha** |
+| **Paper-II / CST deep CS** | Folders `01` to `07` | Hardware depth, OS theory, programming, DBMS, networks, pedagogy |
+
+**If you want easy marks first, start here:**  
+[`paper-1-computer-literacy/00-official-syllabus.md`](paper-1-computer-literacy/00-official-syllabus.md)
+
+---
+
 ## How to start today
 
 1. Read [`00-start-here/01-exam-pattern-and-eligibility.md`](00-start-here/01-exam-pattern-and-eligibility.md)
 2. Read [`00-start-here/02-60-day-study-plan.md`](00-start-here/02-60-day-study-plan.md)
-3. Begin **Chapter 1**: [`01-computer-fundamentals/01-what-is-a-computer.md`](01-computer-fundamentals/01-what-is-a-computer.md)
+3. **Paper-I literacy Chapter 1:** [`paper-1-computer-literacy/01-what-is-a-computer.md`](paper-1-computer-literacy/01-what-is-a-computer.md)
+4. Later, deep CS: [`01-computer-fundamentals/01-what-is-a-computer.md`](01-computer-fundamentals/01-what-is-a-computer.md)
 
 After you finish a chapter, come back to this chat and say:
 
@@ -26,6 +39,7 @@ I will test you, correct mistakes, and then teach the next chapter.
 
 | Week | Folder | What you will master |
 |------|--------|----------------------|
+| First | [`paper-1-computer-literacy/`](paper-1-computer-literacy/) | **Official Paper-I Computer Literacy** (Windows, Office, Paint, email) |
 | 1–2 | [`01-computer-fundamentals/`](01-computer-fundamentals/) | Hardware, software, CPU, memory, I/O, digital logic, number systems |
 | 1–2 | [`02-operating-systems/`](02-operating-systems/) | Process, scheduling, memory, files, deadlock, Windows + Linux |
 | 3–4 | [`03-programming/`](03-programming/) | Flowcharts, C/Python, arrays, lists, stack, queue, OOPs |
@@ -83,8 +97,8 @@ The notes in this pack combine:
 
 ## Your first homework
 
-Open **Chapter 1** now:
+Open **Paper-I Literacy Chapter 1** now:
 
-[`01-computer-fundamentals/01-what-is-a-computer.md`](01-computer-fundamentals/01-what-is-a-computer.md)
+[`paper-1-computer-literacy/01-what-is-a-computer.md`](paper-1-computer-literacy/01-what-is-a-computer.md)
 
-When you finish, tell me in chat. I will quiz you and then walk you through Chapter 2.
+When you finish, tell me in chat. I will quiz you and then walk you through the next literacy file.
